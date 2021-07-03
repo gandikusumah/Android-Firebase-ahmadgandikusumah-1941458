@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "348196808045",
+    "project_id": "gandi-firebase",
+    "storage_bucket": "gandi-firebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:348196808045:android:667018b35390b0bcb1e664",
+        "android_client_info": {
+          "package_name": "com.example.gan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "348196808045-u0vtuvh7i9hlpmu91fh5vb6scgfd9ns0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzBQfZRKeoO48AVcA1sRxejvGAMKeEk_A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "348196808045-u0vtuvh7i9hlpmu91fh5vb6scgfd9ns0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
